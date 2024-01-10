@@ -1,5 +1,9 @@
 ### Prepare 👋
 
+This project is for detecting fake news with LLM using prompt engineering.
+This project is in progress.
+
+
 <!--
 **MasterJun365/MasterJun365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
