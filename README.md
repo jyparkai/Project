@@ -1,4 +1,4 @@
-### Prepare 👋
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Prepare&fontSize=90)
 
 This project is for detecting fake news with LLM using prompt engineering.
 This project is in progress.
